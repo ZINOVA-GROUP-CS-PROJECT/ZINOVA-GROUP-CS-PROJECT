@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Varun.S 👋
 
-<!--
-**ZINOVA-GROUP-CS-PROJECT/ZINOVA-GROUP-CS-PROJECT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+### 💫 About Me
+- 🔭 I’m currently working on **[AegisCode]**
+- 🌱 I’m currently learning **[Technology/Language]**
+- 🤝 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Dev, Data Structures, or anything tech!**
+- ⚡ Fun fact: **I code better when coffee is converted to syntax.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <!-- JavaScript -->
+  <img src="https://shields.io" alt="JS" />
+  <!-- Python -->
+  <img src="https://shields.io" alt="Python" />
+  <!-- React -->
+  <img src="https://shields.io" alt="React" />
+  <!-- Node.js -->
+  <img src="https://shields.io" alt="Node" />
+  <!-- Docker -->
+  <img src="https://shields.io" alt="Docker" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" width="70%" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="https://twitter.com" target="blank"><img src="https://shields.io" alt="Twitter" /></a>
+</p>
